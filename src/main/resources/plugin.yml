@@ -1,0 +1,36 @@
+name: StellarPhone
+version: 2.0.0
+main: com.yourname.smartphone.SmartphonePlugin
+api-version: 1.20
+softdepend: [Vault]
+commands:
+  givehp:
+    description: Memberikan smartphone ke player
+    permission: smartphone.admin
+  setvillage:
+    description: Menyimpan lokasi village
+  angkat:
+    description: Mengangkat panggilan masuk
+  tolak:
+    description: Menolak panggilan masuk
+  tutuptelepon:
+    description: Mengakhiri panggilan aktif
+  tokohp:
+    description: Membuka toko HP
+  hp:
+    description: Membuka menu HP
+  radio:
+    description: Mengirim broadcast ke semua player
+  groupchat:
+    description: Membuka menu group chat
+  backup:
+    description: Melakukan backup data HP
+  sync:
+    description: Mensinkronisasi data antar device
+  pin:
+    description: Mengatur PIN pengaman HP
+permissions:
+  smartphone.admin:
+    default: op
+  smartphone.use:
+    default: true
