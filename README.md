@@ -2,21 +2,17 @@
 
 **ꜱᴍᴀʀᴛᴘʜᴏɴᴇ ᴘʟᴜɢɪɴ ꜰᴏʀ ᴍɪɴᴇᴄʀᴀꜰᴛ ᴡɪᴛʜ ꜰᴜʟʟ ꜰᴇᴀᴛᴜʀᴇꜱ**
 
-[
-
 ![Version](https://img.shields.io/badge/version-2.0.0-blue)
 
-]()
-[
+
 
 ![Java](https://img.shields.io/badge/java-17-red)
 
-]()
-[
+
 
 ![Minecraft](https://img.shields.io/badge/minecraft-1.20-green)
 
-]()
+
 
 ## 📖 ᴅᴇꜱᴄʀɪᴘᴛɪᴏɴ
 StellarPhone adalah plugin smartphone lengkap untuk Minecraft dengan sistem:
@@ -72,11 +68,11 @@ StellarPhone adalah plugin smartphone lengkap untuk Minecraft dengan sistem:
 ## 👨‍💻 ᴀᴜᴛʜᴏʀ
 **StellarProject**
 
-[
+
 
 ![GitHub](https://img.shields.io/badge/GitHub-StellarProject-black)
 
-](https://github.com/OnlyXenzz)
+(https://github.com/OnlyXenzz)
 
 ## 📜 ʟɪᴄᴇɴꜱᴇ
 MIT License
